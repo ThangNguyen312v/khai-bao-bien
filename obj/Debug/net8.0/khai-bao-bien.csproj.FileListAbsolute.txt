@@ -1,0 +1,14 @@
+E:\khai-bao-bien\bin\Debug\net8.0\khai-bao-bien.exe
+E:\khai-bao-bien\bin\Debug\net8.0\khai-bao-bien.deps.json
+E:\khai-bao-bien\bin\Debug\net8.0\khai-bao-bien.runtimeconfig.json
+E:\khai-bao-bien\bin\Debug\net8.0\khai-bao-bien.dll
+E:\khai-bao-bien\bin\Debug\net8.0\khai-bao-bien.pdb
+E:\khai-bao-bien\obj\Debug\net8.0\khai-bao-bien.GeneratedMSBuildEditorConfig.editorconfig
+E:\khai-bao-bien\obj\Debug\net8.0\khai-bao-bien.AssemblyInfoInputs.cache
+E:\khai-bao-bien\obj\Debug\net8.0\khai-bao-bien.AssemblyInfo.cs
+E:\khai-bao-bien\obj\Debug\net8.0\khai-bao-bien.csproj.CoreCompileInputs.cache
+E:\khai-bao-bien\obj\Debug\net8.0\khai-bao-bien.dll
+E:\khai-bao-bien\obj\Debug\net8.0\refint\khai-bao-bien.dll
+E:\khai-bao-bien\obj\Debug\net8.0\khai-bao-bien.pdb
+E:\khai-bao-bien\obj\Debug\net8.0\khai-bao-bien.genruntimeconfig.cache
+E:\khai-bao-bien\obj\Debug\net8.0\ref\khai-bao-bien.dll
